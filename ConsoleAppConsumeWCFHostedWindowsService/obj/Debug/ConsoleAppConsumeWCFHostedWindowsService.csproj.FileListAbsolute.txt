@@ -1,0 +1,7 @@
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\ConsoleAppConsumeWCFHostedWindowsService\bin\Debug\ConsoleAppConsumeWCFHostedWindowsService.exe.config
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\ConsoleAppConsumeWCFHostedWindowsService\bin\Debug\ConsoleAppConsumeWCFHostedWindowsService.exe
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\ConsoleAppConsumeWCFHostedWindowsService\bin\Debug\ConsoleAppConsumeWCFHostedWindowsService.pdb
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\ConsoleAppConsumeWCFHostedWindowsService\obj\Debug\ConsoleAppConsumeWCFHostedWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\ConsoleAppConsumeWCFHostedWindowsService\obj\Debug\ConsoleAppConsumeWCFHostedWindowsService.exe
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\ConsoleAppConsumeWCFHostedWindowsService\obj\Debug\ConsoleAppConsumeWCFHostedWindowsService.pdb
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\ConsoleAppConsumeWCFHostedWindowsService\obj\Debug\ConsoleAppConsumeWCFHostedWindowsService.csprojAssemblyReference.cache

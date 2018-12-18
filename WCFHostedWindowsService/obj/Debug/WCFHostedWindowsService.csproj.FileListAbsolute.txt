@@ -1,0 +1,10 @@
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\bin\Debug\WindowsServiceHostedService.dll
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\bin\Debug\WindowsServiceHostedService.pdb
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.csprojAssemblyReference.cache
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.exe
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.pdb
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.exe.config
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\bin\Debug\WCFHostedWindowsService.pdb
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WCFHostedWindowsService\obj\Debug\WCFHostedWindowsService.csproj.CopyComplete

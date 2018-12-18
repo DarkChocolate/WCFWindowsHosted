@@ -1,0 +1,5 @@
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WindowsServiceHostedService\bin\Debug\WindowsServiceHostedService.dll
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WindowsServiceHostedService\bin\Debug\WindowsServiceHostedService.pdb
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WindowsServiceHostedService\obj\Debug\WindowsServiceHostedService.csproj.CoreCompileInputs.cache
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WindowsServiceHostedService\obj\Debug\WindowsServiceHostedService.dll
+C:\Users\MOHSEN\Desktop\PROJECTS\VS Training\WCF\WindowsService\WindowsServiceHostedService\obj\Debug\WindowsServiceHostedService.pdb
