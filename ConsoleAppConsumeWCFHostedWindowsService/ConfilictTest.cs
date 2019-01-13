@@ -9,5 +9,8 @@ namespace ConsoleAppConsumeWCFHostedWindowsService
     public class ConfilictTest
     {
         //Hi there I am a new Class
+        
+        //Ok lets add some code here
+        System.Threading.Thread.Start();
     }
 }
