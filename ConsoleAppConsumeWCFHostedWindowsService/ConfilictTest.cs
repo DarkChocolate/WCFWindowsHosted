@@ -15,5 +15,8 @@ namespace ConsoleAppConsumeWCFHostedWindowsService
         public string firstName { get; set; }
 
         public string lastName { get; set; }
+        
+        //Ok lets add some code here
+        public int Code {get; set;} = 10;
     }
 }
