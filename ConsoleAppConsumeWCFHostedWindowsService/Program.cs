@@ -13,6 +13,8 @@ namespace ConsoleAppConsumeWCFHostedWindowsService
             var simpleCalculator = new WCFHostedWindowsServiceClient.SimpleCalculatorClient();
 
             Console.WriteLine(simpleCalculator.Multiply(100, 10));
+            //This is a remote change to git
+            Console.ReadLine();
 
             Console.ReadLine();
         }
