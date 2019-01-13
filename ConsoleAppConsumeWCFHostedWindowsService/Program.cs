@@ -16,7 +16,9 @@ namespace ConsoleAppConsumeWCFHostedWindowsService
             //This is my local changes to git
             Console.WriteLine(simpleCalculator.Add(120,40));
             //This is a remote change to git
-            Console.ReadLine();
+            System.Threading.Thread.Sleep(1000);
+
+            //Console.ReadLine();
 
             Console.ReadLine();
         }
