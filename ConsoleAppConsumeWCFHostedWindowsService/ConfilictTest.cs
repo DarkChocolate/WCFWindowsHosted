@@ -11,6 +11,6 @@ namespace ConsoleAppConsumeWCFHostedWindowsService
         //Hi there I am a new Class
         
         //Ok lets add some code here
-        System.Threading.Thread.Start();
+        public int Code {get; set;} = 10;
     }
 }
