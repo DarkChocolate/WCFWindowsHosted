@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppConsumeWCFHostedWindowsService
 {
-    class ConfilictTest
+    public class ConfilictTest
     {
+        //Hi there I am a new Class
     }
 }
