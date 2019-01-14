@@ -22,8 +22,7 @@ namespace ConsoleAppConsumeWCFHostedWindowsService
 
             Console.WriteLine($"Here is my code{a}");
             //Console.ReadLine();
-            //We are about to do a Pull Request
-
+            
             Console.ReadLine();
         }
     }
